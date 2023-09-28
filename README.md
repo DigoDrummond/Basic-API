@@ -1,2 +1,2 @@
 # Spring-Boot-Projects
-Projects using Spring Boot, React, PostgreSQL
+Projects using Spring Boot
